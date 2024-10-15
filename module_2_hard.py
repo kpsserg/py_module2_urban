@@ -5,7 +5,7 @@ def determine_counter(i):
         counter = round(i / 2) # Привели к типу int() c помощью round()
     return counter
 
-# Функция определяет :
+# Функция определяет код:
 def variations(i, n):
     global result
     # Верхняя/нижняя граница цикла For
